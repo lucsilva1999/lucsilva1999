@@ -12,9 +12,10 @@
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
-  ![Dart](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Flutter](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![SQL](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+  ![Dart](https://img.shields.io/badge/-DART-0175C2?style=flat&logo=dart&logoColor=00599C)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569?style=flat&logo=Flutter&logoColor=007396)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=javascript)
 
 **Ferramentas de Desenvolvimento**
 
