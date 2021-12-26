@@ -21,7 +21,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Android Studio](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=android-studio&logoColor=green)
 
 **DevOps**
 
