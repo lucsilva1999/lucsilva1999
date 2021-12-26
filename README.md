@@ -13,9 +13,9 @@
 
 **Aplicações e Dados**
 
-  ![Dart](https://img.shields.io/badge/-DART-333333?style=flat&logo=dart&logoColor=00599C)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=javascript)
+  ![Dart](https://img.shields.io/badge/-DART-333333?style=flat&logo=dart&logoColor=0175C2)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-access)
 
 **Ferramentas de Desenvolvimento**
 
