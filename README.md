@@ -16,9 +16,6 @@
   ![Flutter](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-### Minhas redes sociais:
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 ### O que estou estudando no momento:
 <img src="https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=flutter&logoColor=white" /><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -31,7 +28,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Silva](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/lucz/)
+[![Linkedin: Lucas Silva](https://img.shields.io/badge/-Lucas Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/lucz/)
 [![Gmail Badge](https://img.shields.io/badge/-lucsilva1999@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucsilva1999@email.com)](mailto:lucsilva1999@email.com)
 [![GitHub lucsilva1999]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/lucsilva1999)
 
