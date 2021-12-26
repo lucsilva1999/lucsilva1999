@@ -1,6 +1,16 @@
-## Olá, eu sou o Lucas 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Sou um ex-analista de infraestrutura que começou como o cara do TI na área de suporte. Atualmente trabalho no banco Itaú como estagiário, minhas atividades são desenvolvidas para área do backoffice do Itaucard na criação de relatórios e indicadores.
+
+## 💜 Olá, meu nome é <strong>Lucas</strong>
+
+<h3> :man: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
+- 💼 &nbsp; Trabalhando como **Estagiário** no <a href="https://www.itau.com.br/">Banco Itaú</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Dart, Flutter e SQL**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
 ### Meu PC:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /><img src="https://img.shields.io/badge/AMD-Ryzen_1600_AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/><img src="https://img.shields.io/badge/NVIDIA-GT1030-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
