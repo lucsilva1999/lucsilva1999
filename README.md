@@ -4,7 +4,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e apaixonado por desenvolvimento.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
 - 💼 &nbsp; Trabalhando como **Estagiário** no <a href="https://www.itau.com.br/">Banco Itaú</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Dart, Flutter, GIT e SQL**.
@@ -33,13 +33,3 @@
 [![Linkedin: Lucas Silva](https://img.shields.io/badge/-lucz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/lucz/)
 [![Gmail Badge](https://img.shields.io/badge/-lucsilva1999@email.com-A4373A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucsilva1999@email.com)](mailto:lucsilva1999@email.com)
 [![GitHub lucsilva1999]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/lucsilva1999)
-
-
-
-
-
-
-
-
-
-
