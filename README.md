@@ -3,7 +3,7 @@
 #### Sou um ex-analista de infraestrutura que começou como o cara do TI na área de suporte. Atualmente trabalho no banco Itaú como estagiário, minhas atividades são desenvolvidas para área do backoffice do Itaucard na criação de relatórios e indicadores.
 
 ### Meu PC:
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> <img src="https://img.shields.io/badge/AMD-Ryzen_1600_AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /><img src="https://img.shields.io/badge/AMD-Ryzen_1600_AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/><img src="https://img.shields.io/badge/NVIDIA-GT1030-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 ### Minhas redes sociais:
 
