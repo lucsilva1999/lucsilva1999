@@ -9,7 +9,7 @@
 - 💼 &nbsp; Trabalhando como **Estagiário** no <a href="https://www.itau.com.br/">Banco Itaú</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Dart, Flutter, GIT e SQL**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket:&nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
@@ -28,7 +28,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Lucas Silva](https://img.shields.io/badge/-lucz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/lucz/)
 [![Gmail Badge](https://img.shields.io/badge/-lucsilva1999@email.com-A4373A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucsilva1999@email.com)](mailto:lucsilva1999@email.com)
