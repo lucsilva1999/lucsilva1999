@@ -28,7 +28,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Silva](https://img.shields.io/badge/-Lucas Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/lucz/)
+[![Linkedin: Lucas Silva](https://img.shields.io/badge/-lucz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/lucz/)
 [![Gmail Badge](https://img.shields.io/badge/-lucsilva1999@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucsilva1999@email.com)](mailto:lucsilva1999@email.com)
 [![GitHub lucsilva1999]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/lucsilva1999)
 
