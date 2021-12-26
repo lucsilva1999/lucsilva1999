@@ -1,15 +1,30 @@
-## Hi, I'm Lucas! 👋
+## Olá, eu sou o Lucas 👋
 
-#### I'm an infrastructure analyst who started out as the famous IT guy! I worked for about three years as User Support and now I am studying to enter the area of Android development with Flutter and Dart. Lover of technology and learning something new every day.
+#### Sou um ex-analista de infraestrutura que começou como o cara do TI na área de suporte. Atualmente trabalho no banco Itaú como estagiário, minhas atividades são desenvolvidas para área do backoffice do Itaucard na criação de relatórios e indicadores.
 
-### My OS:
+### Meu PC:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-### What am I studying?
+### Minhas redes sociais:
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
+
+### O que estou estudando no momento:
+<img src="https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+### Meu ambiente de desenvolvimento:
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white />
 <img src="https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=flutter&logoColor=white" />
 
-### What did I use at work?
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />
+### O que eu uso diariamente no trabalho?
+https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white
+https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white
+https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucsilva1999&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
