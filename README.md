@@ -15,8 +15,8 @@
 
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-access&logoColor=white)
-  ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=microsoft-access&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-access&logoColor=red)
+  ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=scala&logoColor=blue)
 
 **Ferramentas de Desenvolvimento**
 
