@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
 - 💼 &nbsp; Trabalhando como **Estagiário** no <a href="https://www.itau.com.br/">Banco Itaú</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Dart, Flutter e SQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **Dart, Flutter, GIT e SQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -16,15 +16,16 @@
   ![Flutter](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+**Ferramentas de Desenvolvimento**
 
-### O que estou estudando no momento:
-<img src="https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=flutter&logoColor=white" /><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### Meu ambiente de desenvolvimento:
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><img src="https://img.shields.io/badge/Flutter-0095D5?&style=for-the-badge&logo=flutter&logoColor=white" />
+**DevOps**
 
-### O que eu uso diariamente no trabalho?
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  
+ **O que eu uso diariamente no trabalho**
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
@@ -32,8 +33,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucsilva1999@email.com-A4373A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucsilva1999@email.com)](mailto:lucsilva1999@email.com)
 [![GitHub lucsilva1999]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/lucsilva1999)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucsilva1999&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-streak-stats.herokuapp.com/?user=lucsilva1999)
 
 
 
