@@ -6,15 +6,13 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e apaixonado por desenvolvimento.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
-- 💼 &nbsp; Trabalhando como **Estagiário** no <a href="https://www.itau.com.br/">Banco Itaú</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Dart, Flutter, GIT e SQL**.
+- 💼 &nbsp; Trabalhando como **Analista** no <a href="https://www.bancopan.com.br/">Banco PAN</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Typescript, Salesforce e SQL**.
 
 <h3> :rocket:&nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=0175C2)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=02569B)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-access&logoColor=red)
   ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=scala&logoColor=blue)
 
