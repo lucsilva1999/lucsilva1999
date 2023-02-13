@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Experiência com Salesforce Marketing Cloud, SQL, SAS e AWS. Profissional de TI há cerca de 8 anos. Iniciei minha carreira em 2016 com Infraestrutura.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
-- 💼 &nbsp; Trabalhando como **Consultor** na <a href="https://www.ibm.com/br-pt/">IBM</a> ajudando a estruturar projetos e criar soluções para clientes na área de telecomunicações..
+- 💼 &nbsp; Trabalhando como **Consultor** na <a href="https://www.ibm.com/br-pt/">IBM</a> ajudando a estruturar projetos e criar soluções para clientes na área de telecomunicações.
 - 🌱 &nbsp; Aprendendo mais sobre **Rust, Salesforce e SQL**.
 
 <h3> :rocket:&nbsp;Minhas Skills </h3>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
 <h3> :trophy:&nbsp;Empresas em que eu trabalhei: </h3> 
-<img src="https://i.imgur.com/bK2PD2X.png" max-width="60px" width="60px" /> <img src="https://i.imgur.com/T8bST93.png" max-width="60px" width="60px" /> <img src="https://i.imgur.com/Z1qU81s.png" max-width="60px" width="60px" />
+<img src="https://i.imgur.com/bK2PD2X.png" max-width="60px" width="60px"/><img src="https://i.imgur.com/T8bST93.png" max-width="60px" width="60px"/><img src="https://i.imgur.com/Z1qU81s.png" max-width="60px" width="60px"/>
 
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
