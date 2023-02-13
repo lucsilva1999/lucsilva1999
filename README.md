@@ -11,7 +11,7 @@
 
 <h3> :rocket:&nbsp;Minhas Skills </h3>
 
-![image]({(https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)})
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
  
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
