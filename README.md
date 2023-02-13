@@ -6,26 +6,13 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e apaixonado por desenvolvimento.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
-- 💼 &nbsp; Trabalhando como **Analista** no <a href="https://www.bancopan.com.br/">Banco PAN</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Typescript, Salesforce e SQL**.
+- 💼 &nbsp; Trabalhando como **Consultor** na <a href="https://www.ibm.com/br-pt/">IBM</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Rust, Salesforce e SQL**.
 
 <h3> :rocket:&nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
-
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=microsoft-access&logoColor=red)
-  ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=scala&logoColor=blue)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=green)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,bash,rust,mysql,postgres,vscode&perline=3)](https://skillicons.dev)
+ 
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Lucas Silva](https://img.shields.io/badge/-lucz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/lucz/)
