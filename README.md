@@ -15,9 +15,7 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
 <h3> :trophy:&nbsp;Empresas em que eu trabalhei: </h3> 
- <img src="https://user-images.githubusercontent.com/64699537/218535301-440efb71-3abe-4767-8f6e-00a56856daf0.png" max-width="60px" width="60px" />
- <img src="https://i.imgur.com/T8bST93.png" max-width="60px" width="60px" />
- <img src="https://i.imgur.com/Z1qU81s.png" max-width="60px" width="60px" />
+ <img src="https://i.imgur.com/bK2PD2X.png" max-width="60px" width="60px" /><img src="https://i.imgur.com/T8bST93.png" max-width="60px" width="60px" /><img src="https://i.imgur.com/Z1qU81s.png" max-width="60px" width="60px" />
 
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
