@@ -4,9 +4,9 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Experiência com Salesforce Marketing Cloud, SQL, SAS e AWS. Minha atual posição é de Consultor Marketing Cloud na IBM ajudando a estruturar projetos e criar soluções para clientes na área de telecomunicações. Profissional de TI há cerca de 8 anos. Iniciei minha carreira em 2016 com Infraestrutura. Em 2021 eu conheci a área de Salesforce e Analytics.
+- 🤔 &nbsp; Experiência com Salesforce Marketing Cloud, SQL, SAS e AWS. Profissional de TI há cerca de 8 anos. Iniciei minha carreira em 2016 com Infraestrutura. Em 2021 eu conheci a área de Salesforce e Analytics.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
-- 💼 &nbsp; Trabalhando como **Consultor** na <a href="https://www.ibm.com/br-pt/">IBM</a>.
+- 💼 &nbsp; Trabalhando como **Consultor** na <a href="https://www.ibm.com/br-pt/">IBM</a> ajudando a estruturar projetos e criar soluções para clientes na área de telecomunicações..
 - 🌱 &nbsp; Aprendendo mais sobre **Rust, Salesforce e SQL**.
 
 <h3> :rocket:&nbsp;Minhas Skills </h3>
