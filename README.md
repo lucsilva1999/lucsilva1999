@@ -4,7 +4,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Experiência com Salesforce Marketing Cloud, SQL, SAS e AWS. Profissional de TI há cerca de 8 anos. Iniciei minha carreira em 2016 com Infraestrutura. Em 2021 eu conheci a área de Salesforce e Analytics.
+- 🤔 &nbsp; Experiência com Salesforce Marketing Cloud, SQL, SAS e AWS. Profissional de TI há cerca de 8 anos. Iniciei minha carreira em 2016 com Infraestrutura.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
 - 💼 &nbsp; Trabalhando como **Consultor** na <a href="https://www.ibm.com/br-pt/">IBM</a> ajudando a estruturar projetos e criar soluções para clientes na área de telecomunicações..
 - 🌱 &nbsp; Aprendendo mais sobre **Rust, Salesforce e SQL**.
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
 <h3> :trophy:&nbsp;Empresas em que eu trabalhei: </h3> 
- <img src="![image](https://user-images.githubusercontent.com/64699537/218535301-440efb71-3abe-4767-8f6e-00a56856daf0.png"/>
+ <img src="https://user-images.githubusercontent.com/64699537/218535301-440efb71-3abe-4767-8f6e-00a56856daf0.png" max-width="100px" width="100px/>
 
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
