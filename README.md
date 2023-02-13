@@ -11,7 +11,7 @@
 
 <h3> :rocket:&nbsp;Minhas Skills </h3>
 
-[[![My Skills](https://skillicons.dev/icons?i=aws,gcp,bash,rust,mysql,postgres,vscode&perline=3)](https://skillicons.dev)](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![image]({[BadgeURLHere](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)})
  
 <h3> :earth_americas:&nbsp;Onde me encontrar: </h3> 
 
