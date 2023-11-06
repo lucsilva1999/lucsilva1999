@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Experiência com Salesforce Marketing Cloud, SQL, SAS e AWS. Profissional de TI há cerca de 8 anos. Iniciei minha carreira em 2016 com Infraestrutura.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** no <a href="https://www.eniac.com.br/">Centro Universitário ENIAC</a>.
-- 💼 &nbsp; Trabalhando como **Consultor** na <a href="https://www.ibm.com/br-pt/">IBM</a> ajudando a estruturar projetos e criar soluções para clientes na área de telecomunicações.
+- 💼 &nbsp; Trabalhando como **Consultor Sênior** na <a href="https://www.capgemini.com/br-pt/">Capgemini</a> ajudando a estruturar projetos e criar soluções para clientes na área de seguros, serviços e bancos.
 - 🌱 &nbsp; Aprendendo sobre **Salesforce e SQL**.
 
 <h3> :rocket:&nbsp;Minhas Skills </h3>
